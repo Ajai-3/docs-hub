@@ -1,6 +1,6 @@
 <div>
 
-<h1> Technical Documentation Hub</h1>
+<h1> 📚  Technical Documentation Hub</h1>
 
 <p>A personal knowledge base of in-depth technical documentation, hands-on guides, and structured learning resources covering core DevOps, Cloud Infrastructure, and Backend Engineering topics.</p>
 
