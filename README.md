@@ -2,19 +2,19 @@
 
 <h1> 📚  Technical Documentation Hub</h1>
 
-<p>A personal knowledge base of in-depth technical documentation, hands-on guides, and structured learning resources covering core DevOps, Cloud Infrastructure, and Backend Engineering topics.</p>
+<p>Personal notes and documentation I'm writing while learning DevOps, Cloud Infrastructure, and Backend Engineering.</p>
 
 <br/>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ajai-3/docs-hub?color=0d1117&labelColor=0d1117&style=flat-square&logo=github&logoColor=white)
-![Docs](https://img.shields.io/badge/Topics-7-0078D4?style=flat-square&labelColor=0d1117)
+![Docs](https://img.shields.io/badge/Topics-8-0078D4?style=flat-square&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square&labelColor=0d1117)
 
 </div>
 
 ## Overview
 
-This repository serves as the central index for all my technical documentation projects. Each linked repository contains full documentation I have written while studying a specific technology — including concept breakdowns, configuration references, architecture diagrams, and practical examples.
+This repo is the index for all my study documentation. Each linked repo has notes I wrote while learning that specific topic — concepts, configs, diagrams, and examples.
 
 ## Documentation Repositories
 
@@ -78,6 +78,7 @@ A structured guide to large-scale system design principles. Covers scalability, 
 
 <div align="center">
 
+<img src="https://cdn.simpleicons.org/wireshark/167FE5" title="Docker" width="45" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="45" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="45" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" width="45" />&nbsp;&nbsp;&nbsp;
