@@ -20,9 +20,9 @@ This repository serves as the central index for all my technical documentation p
 
 **Computer Networking Fundamentals — Mastery Lab 2026**
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" align="left" style="margin-right: 12px;" />
+<img src="https://cdn.simpleicons.org/wireshark/167FE5" width="48" align="left" style="margin-right: 12px;" />
 <strong><a href="https://github.com/Ajai-3/networking-mastery-lab-2026">Computer Networking Fundamentals — Mastery Lab 2026</a></strong><br/>
-Beginner-friendly fundamentals of computer networking for DevOps and backend engineers. Covers IP addressing, CIDR, subnets, ports, the 7 OSI layers, TCP/UDP protocols, DNS resolution, HTTP/HTTPS, routing basics, and essential Linux network troubleshooting commands.
+Fundamental computer networking concepts for DevOps engineers. Covers IP addressing, CIDR, subnets, ports, 7 OSI layers, TCP/UDP, DNS resolution, HTTP/HTTPS, packet routing, and essential Linux troubleshooting tools.
 <br/><br/>
 
 **Docker — Mastery Lab 2026**
