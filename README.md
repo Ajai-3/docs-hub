@@ -25,6 +25,13 @@ This repo is the index for all my study documentation. Each linked repo has note
 Fundamental computer networking concepts for DevOps engineers. Covers IP addressing, CIDR, subnets, ports, 7 OSI layers, TCP/UDP, DNS resolution, HTTP/HTTPS, packet routing, and essential Linux troubleshooting tools.
 <br/><br/>
 
+**DSA — Mastery Lab 2026**
+<br/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" align="left" style="margin-right: 12px;" /> 
+<strong><a href="https://github.com/Ajai-3/dsa-mastery-lab-2026">DSA — Mastery Lab 2026</a></strong><br/>
+A comprehensive guide from absolute beginner to industrial-level Data Structures & Algorithms expert. This repository documents my journey through problem-solving, algorithmic thinking, and interview-grade mastery.
+<br/><br/>
+
 **Docker — Mastery Lab 2026**
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" align="left" style="margin-right: 12px;" />
@@ -79,6 +86,7 @@ A structured guide to large-scale system design principles. Covers scalability, 
 <div align="center">
 
 <img src="https://cdn.simpleicons.org/wireshark/167FE5" title="Docker" width="45" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" title="DSA" width="45" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="45" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="45" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" width="45" />&nbsp;&nbsp;&nbsp;
